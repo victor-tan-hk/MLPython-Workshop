@@ -1,3 +1,3 @@
 # Machine Learning with Python
-# SONY
-# May 15 - 17 2023
+# Flex
+# June 7 - 9 2023
