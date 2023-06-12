@@ -1,3 +1,3 @@
 # Machine Learning with Python
-# Flex
-# June 7 - 9 2023
+# Intel
+# June 13 - 15 2023
