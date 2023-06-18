@@ -1,3 +1,3 @@
 # Machine Learning with Python
-# Intel
-# June 13 - 15 2023
+# Intel / Keysight
+# June 19 - 21 2023
