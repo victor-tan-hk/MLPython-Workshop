@@ -1,3 +1,3 @@
 # Machine Learning with Python
-# Intel / Keysight
-# June 19 - 21 2023
+# Sandisk
+# June 26 - 27 2023
