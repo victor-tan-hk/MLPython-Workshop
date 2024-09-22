@@ -1,3 +1,3 @@
 # Machine Learning with Python
 # Intel
-# June 10 - 12 2024
+# Sept 23 - 25 2024
